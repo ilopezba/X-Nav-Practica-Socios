@@ -12,8 +12,8 @@
 
  <body>
 
- <CENTER><img src="pano-12.jpg" width="878" height="180" align="middle"> 
- <H1>SOCIOS</H1></CENTER>
+ <CENTER><img src="pano-12.jpg" width="878" height="180" align="middle"> </CENTER>
+ <H1>SOCIOS</H1>
 
 	<div id="tabs">
   		<ul>

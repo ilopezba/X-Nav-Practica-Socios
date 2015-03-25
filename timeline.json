@@ -1,16 +1,16 @@
 
 {
 "mensaje":[
-		{"Autor": "Ivanlb1", 
+		{"Autor": "Crishiano7", 
 		"Avatar": "cristiano.jpg", 
 		"Titulo": "Siempre estaré en el conjunto Blanco", 
-		"Contenido": "Primer mensaje", 
+		"Contenido": "¿Dónde mejor que en el Madrid? Somos los mejores.", 
 		"Fecha": "17-03-2015"},
 		
 		{"Autor": "Griezmann-Txuri-Urdin", 
 		"Avatar": "griezmann.jpg", 
 		"Titulo": "Mi equipo siempre será la Real Sociedad", 
-		"Contenido": "Primer mensaje", 
+		"Contenido": "Alli pase mis mejores años, no confio en el cholo", 
 		"Fecha": "16-03-2015"}
 	]
 }
