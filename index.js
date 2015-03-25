@@ -48,7 +48,7 @@
 
 function updateSocial(){
 		$("#content").accordion("destroy");
-		$.getJSON("/update.json", function(updatedata) { 
+		$.getJSON("update.json", function(updatedata) { 
 			
 			if (!actualizo){
 				for(var i =0; i< updatedata.mensaje.length ;i++){

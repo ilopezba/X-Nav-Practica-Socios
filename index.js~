@@ -7,7 +7,7 @@
 	$("#content").accordion("destroy");
 
 	$(document).ready(function() { 
-		$.getJSON("/timeline.json", function(data) { 
+		$.getJSON("timeline.json", function(data) { 
 			
 			for(var i = 0; i< data.mensaje.length ;i++){
 				var Autor = data.mensaje[i].Autor;
@@ -22,7 +22,7 @@
 			$( "#content" ).accordion({active: true});
 		});
 
-		$.getJSON("/myline.json", function(midata) { 
+		$.getJSON("myline.json", function(midata) { 
 			$( "#miss" ).accordion();
 			$("#miss").accordion("destroy");			
 			for(var i = 0; i< midata.mensaje.length ;i++){
@@ -37,7 +37,7 @@
 			$("#miss").html(mismensajes);
 			$( "#miss" ).accordion({active: true});
 		});
-		$.getJSON("/update.json", function(updatedata) { 
+		$.getJSON("update.json", function(updatedata) { 
 			
 			$("#Update").html("Tienes "+updatedata.mensaje.length+" noticias nuevas");
 		});
