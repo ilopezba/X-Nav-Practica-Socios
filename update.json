@@ -1,0 +1,15 @@
+{
+"mensaje":[
+		{"Autor": "Atletico de Madrid Oficial", 
+		"Avatar": "cristiano.jpg", 
+		"Titulo": "Tenemos miedo en la champions", 
+		"Contenido": "Primer mensaje", 
+		"Fecha": "17-03-2015"},
+		
+		{"Autor": "JR20 ", 
+		"Avatar": "griezmann.jpg", 
+		"Titulo": "Arrepentido", 
+		"Contenido": "Tenía que haberme bajado del coche, lo siento por mis fans, que seguro que lo hubiese querido ver.", 
+		"Fecha": "16-03-2015"}
+	]
+}

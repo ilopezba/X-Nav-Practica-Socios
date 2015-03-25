@@ -1,0 +1,16 @@
+
+{
+"mensaje":[
+		{"Autor": "Ivanlb1", 
+		"Avatar": "cristiano.jpg", 
+		"Titulo": "Siempre estaré en el conjunto Blanco", 
+		"Contenido": "Primer mensaje", 
+		"Fecha": "17-03-2015"},
+		
+		{"Autor": "Griezmann-Txuri-Urdin", 
+		"Avatar": "griezmann.jpg", 
+		"Titulo": "Mi equipo siempre será la Real Sociedad", 
+		"Contenido": "Primer mensaje", 
+		"Fecha": "16-03-2015"}
+	]
+}

@@ -1,0 +1,23 @@
+div[id^='foto'] {
+ color: blue;
+ font-size: 16px;
+ border: 1px solid rgb(21,11,11);
+ overflow: hidden;
+ margin: 0 0 0 0px;
+ padding: 5px;
+ width: 100px;
+ z-index: 2;
+ float:right;
+}
+ 
+div[id^='foo']{
+    position:relative;
+    width: 800px;
+    color: red;
+    float:left;
+    display:inline-block;
+    border-bottom: 1px solid
+
+}
+
+
